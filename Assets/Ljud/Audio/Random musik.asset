@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-7163045642182771792
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FairyForest_part2_stem1_100BPM_{-7163045642182771792}
+  m_AudioClip: {fileID: 8300000, guid: 3e583ada902c51343abd03ad03c0d83e, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-2077880491821781166
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FairyForest_part4_100BPM_oneshot_{-2077880491821781166}
+  m_AudioClip: {fileID: 8300000, guid: a862d47b83efe9742854145972ddf729, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-942012064545213185
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FairyForest_part2_Main_100BPM_{-942012064545213185}
+  m_AudioClip: {fileID: 8300000, guid: 4b48d0766b786d24fb104dc6f28f713a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-839481177187796311
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FairyForest_part1_stem1_100BPM_{-839481177187796311}
+  m_AudioClip: {fileID: 8300000, guid: 6d4636381e6093d4d91273e9e52700c5, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-520665211486785635
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FairyForest_part1_stem2_100BPM_{-520665211486785635}
+  m_AudioClip: {fileID: 8300000, guid: 70651d4961a09f1428d0fc2c23a5a467, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-378118851970063757
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FairyForest_part3_Main_100BPM_{-378118851970063757}
+  m_AudioClip: {fileID: 8300000, guid: cf761806825d66a43919088736ed6fd6, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &406144909552286889
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FairyForest_part1_Main_100BPM_{406144909552286889}
+  m_AudioClip: {fileID: 8300000, guid: a2655c4d2eeb68c49a2ec8ba35aa69b6, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1642735850886772221
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FairyForest_part4_orcHit_oneshot_{1642735850886772221}
+  m_AudioClip: {fileID: 8300000, guid: 40fed6daa6fa8594bbfc8f84e1d6ed76, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4358914999656902646
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FairyForest_part3_stem1_100BPM_{4358914999656902646}
+  m_AudioClip: {fileID: 8300000, guid: fd9c50ba17c137a41861cab591e5494e, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4907797975671322377
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FairyForest_part4_Main_loopA_100BPM_{4907797975671322377}
+  m_AudioClip: {fileID: 8300000, guid: 7b73ee9f7978f42459ffaf708a48bbfb, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Random musik
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 406144909552286889}
+  - {fileID: -839481177187796311}
+  - {fileID: -520665211486785635}
+  - {fileID: -942012064545213185}
+  - {fileID: -7163045642182771792}
+  - {fileID: -378118851970063757}
+  - {fileID: 4358914999656902646}
+  - {fileID: -2077880491821781166}
+  - {fileID: 4907797975671322377}
+  - {fileID: 7196189593426644415}
+  - {fileID: 1642735850886772221}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 1
+  m_TriggerMode: 1
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 0
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &7196189593426644415
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FairyForest_part4_Main_loopAB_100BPM_{7196189593426644415}
+  m_AudioClip: {fileID: 8300000, guid: 249c19f058c844c4792295c63d37423f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
